@@ -9,3 +9,9 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+#database
+rag_pipe_database/
+
+
+
